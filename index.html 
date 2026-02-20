@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Maneesh Anand | Software Engineer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{
+  margin:0;
+  font-family:Arial;
+  background:linear-gradient(135deg,#000,#111,#1a1a1a);
+  color:white;
+  text-align:center;
+}
+h1{font-size:50px;margin-top:120px;}
+h2{color:#ccc;}
+.section{padding:80px 20px;max-width:900px;margin:auto;}
+.card{
+  background:#222;
+  padding:25px;
+  margin:30px auto;
+  border-radius:15px;
+  transition:0.3s;
+}
+.card:hover{
+  transform:translateY(-8px);
+}
+a.button{
+  display:inline-block;
+  margin:15px;
+  padding:12px 25px;
+  background:white;
+  color:black;
+  text-decoration:none;
+  border-radius:30px;
+  font-weight:bold;
+}
+a.button:hover{
+  background:#ddd;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Maneesh Anand</h1>
+<h2>Advanced Software Engineer</h2>
+
+<div class="section">
+<p>
+I build scalable backend systems, AI-powered applications, and cloud-native platforms designed for performance and growth.
+</p>
+
+<a href="mailto:pedellianand@gmail.com" class="button">Contact Me</a>
+<a href="https://linkedin.com/in/YOUR-LINK" class="button">LinkedIn</a>
+<a href="https://github.com/YOUR-GITHUB" class="button">GitHub</a>
+</div>
+
+<div class="section">
+<h2>Projects</h2>
+
+<div class="card">
+<h3>EZ Parking AI Platform</h3>
+<p>Smart parking management system with AI chatbot integration.</p>
+</div>
+
+<div class="card">
+<h3>AI Chatbot System</h3>
+<p>NLP-based conversational AI deployed on cloud infrastructure.</p>
+</div>
+
+<div class="card">
+<h3>Analytics Dashboard</h3>
+<p>Predictive modeling with executive KPI reporting.</p>
+</div>
+
+</div>
+
+<div class="section">
+<h2>Tech Stack</h2>
+<p>Python • Django • FastAPI • AWS • GCP • Docker • MySQL • PostgreSQL</p>
+</div>
+
+<p style="color:gray;padding:40px;">© 2026 Maneesh Anand</p>
+
+</body>
+</html>
